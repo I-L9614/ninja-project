@@ -2,7 +2,8 @@ first command: => install nestjs
 npm install -g @nestjs/cli
 
 second command: => create the project
-nest new <project name>
+nest new <project name> => to create new project inside the folder
+nest new . => create the project on the corent folder
 
 thied command: => get inside the project
 cd <project name>
